@@ -4,7 +4,7 @@
 
 [![Link para Dashboard](https://img.shields.io/badge/Acesse_o_Dashboard-Looker_Studio-blue?style=for-the-badge&logo=google)](https://lookerstudio.google.com/s/tAUBswv5mRM)
 
-![Preview do Dashboard](./Dashboard.png)
+![Preview do Dashboard](./imagens/dashboard.png)
 
 ## 📝 Descrição do Projeto
 Este painel analítico foi desenvolvido para monitorar e otimizar a performance de campanhas de mídia paga (Social Ads) do aplicativo **MyFitnessPal**. O objetivo central é analisar o funil de aquisição de usuários, desde a impressão do anúncio até a instalação do aplicativo e conversão final, permitindo ajustes estratégicos de investimento e criativos.
